@@ -63,7 +63,7 @@ public class MiVentana extends Frame implements MouseListener{
 
     @Override
     public void mouseEntered(MouseEvent e) {
-        System.out.println("entro? uwu");
+        System.out.println("entro");
     }
 
     @Override
